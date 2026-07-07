@@ -18,7 +18,7 @@ public:
     }
 };
 
-complex ::complex(void)//-------This is a defaut construction as it take no paramaters
+complex ::complex(void)//-------This is a defaut construction as it accepts no paramaters
 
 {
     a = 10;
